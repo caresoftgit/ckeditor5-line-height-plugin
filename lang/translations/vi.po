@@ -1,0 +1,14 @@
+# Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
+msgid ""
+msgstr ""
+"Language: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+msgctxt "Điều chỉnh khoảng cách giữa các dòng"
+msgid "Khoảng cách dòng"
+msgstr "Khoảng cách dòng"
+
+msgctxt "Khoảng cách dòng mặc định."
+msgid "Mặc định"
+msgstr "Mặc định"
