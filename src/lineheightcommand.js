@@ -1,6 +1,4 @@
-import Command from '@ckeditor/ckeditor5-core/src/command'
-import first from '@ckeditor/ckeditor5-utils/src/first'
-// import { isDefault } from './utils'
+import {Command,first} from 'ckeditor5'
 
 const LINE_HEIGHT = 'lineHeight'
 
